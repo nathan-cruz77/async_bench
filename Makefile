@@ -36,3 +36,6 @@ elixir:
 node:
 	@echo "Testing node (" $(node_version) ")"
 	node source/async.js
+
+plot:
+	@gnuplot plotter.gp 2>/dev/null

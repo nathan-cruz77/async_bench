@@ -1,0 +1,4 @@
+Language  "1k calls"  "10k calls"  "100k calls"
+Elixir	1015.70  1062.00  1410.50
+Node	1009.60  1025.82  1117.50
+Python	1026.40  1122.64  2435.30
